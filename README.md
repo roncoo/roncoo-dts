@@ -1,11 +1,11 @@
 # roncoo-dts
 龙果学院《微服务架构的分布式事务解决方案》（RonCoo distributed transaction solution）
 
-http://www.roncoo.com/details?cid=7ae3d7eddc4742f78b0548aa8bd9ccdb
+http://www.roncoo.com/course/view/7ae3d7eddc4742f78b0548aa8bd9ccdb
 
 1、基于可靠消息的最终一致性方案；
 
-2、TCC（Try/Confirm/Cancel）事务补偿型方案；
+2、TCC（Try/Confirm/Cancel）两阶段型方案；
 
 3、最大努力通知型方案；
 
