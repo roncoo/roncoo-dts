@@ -3,6 +3,9 @@
 
 http://www.roncoo.com/course/view/7ae3d7eddc4742f78b0548aa8bd9ccdb
 
+整体方案流程图：
+http://img.roncoo.com/education/course/2016/07_26/img/601f1cf9d0884a6dab2043c335f341ff.jpg
+
 1、基于可靠消息的最终一致性方案；
 http://img.roncoo.com/education/course/2016/07_17/img/8da5a88cc9df427795173839010c2ce4.jpg
 
